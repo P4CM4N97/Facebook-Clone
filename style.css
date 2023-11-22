@@ -1,0 +1,49 @@
+.body {
+    
+}
+
+.principal {
+    margin-top: 25%;
+}
+
+.centrado {    
+    display: flex;
+    margin-top:
+}
+
+.facebook {    
+    width: 100%;
+    margin-left: 25%;
+}
+
+h2 {
+    color: aqua;
+}
+
+p {
+    width: 400px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+img {
+    width: 280px;
+    margin-bottom: 10px;
+}
+
+.form {
+    margin-right: 25%;
+    width: 1100px;
+}
+.lenguas {
+    display: flex;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.lenguas p {
+    font-weight: lighter;
+    color: lightgray;
+    margin: 10px 5px;
+}
+
